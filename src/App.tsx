@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import Navigation from './components/Navigation';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
 import PortfolioPage from './pages/PortfolioPage';
 import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
