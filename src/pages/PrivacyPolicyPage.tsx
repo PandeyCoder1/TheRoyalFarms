@@ -8,7 +8,7 @@ export default function PrivacyPolicyPage() {
           <div className="flex items-center justify-center mb-6">
             <Shield className="w-16 h-16 text-organic-green-400" />
           </div>
-          <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center">Privacy Policy</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center text-black">Privacy Policy</h1>
           <p className="text-xl text-center text-gray-300">
             Last Updated: December 18, 2025
           </p>
@@ -128,9 +128,9 @@ export default function PrivacyPolicyPage() {
                 If you have any questions about this privacy policy or our privacy practices, please contact us:
               </p>
               <div className="bg-amber-50 border border-amber-200 rounded-lg p-6 space-y-2">
-                <p className="text-gray-800"><strong>Email:</strong> privacy@theroyalfarms.com</p>
-                <p className="text-gray-800"><strong>Phone:</strong> +1 (555) 123-4567</p>
-                <p className="text-gray-800"><strong>Address:</strong> 123 Baker Street, New York, NY 10001</p>
+                <p className="text-gray-800"><strong>Email:</strong> privacy@theroyalfarms.shop</p>
+                <p className="text-gray-800"><strong>Phone:</strong> +91 91221 22708</p>
+                <p className="text-gray-800"><strong>Address:</strong> Faridabad Sec 37 , Haryana</p>
               </div>
             </div>
           </div>

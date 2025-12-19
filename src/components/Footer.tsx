@@ -66,7 +66,7 @@ export default function Footer({ onNavigate }: FooterProps) {
               </li>
               <li className="flex items-center space-x-2 text-gray-600">
                 <Mail className="w-4 h-4 text-organic-green-600" />
-                <span className="text-sm">info@theroyalfarms.in</span>
+                <span className="text-sm">info@theroyalfarms.shop</span>
               </li>
               <li className="flex items-start space-x-2 text-gray-600">
                 <MapPin className="w-4 h-4 mt-1 text-organic-green-600" />
